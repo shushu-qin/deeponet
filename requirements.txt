@@ -4,5 +4,5 @@ numpy
 pathos
 scipy
 seaborn
-sklearn
+scikit-learn
 tensorflow
